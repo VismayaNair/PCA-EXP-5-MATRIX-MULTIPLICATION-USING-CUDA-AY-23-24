@@ -1,9 +1,10 @@
 # PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24
 <h3>AIM:</h3>
 NAME : VISMAYA.S
+
 REGISTER NUMBER : 212221230125
-<h3>EX. NO</h3>
-<h3>DATE</h3>
+<h3>EX. NO 5</h3>
+<h3>DATE 06.05.24 </h3>
 <h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
   Implement Matrix Multiplication using GPU.</h3>
 
